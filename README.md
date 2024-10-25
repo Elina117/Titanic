@@ -1,22 +1,22 @@
 # Titanic: Machine Learning from Disaster 🚢
 
-Проект, посвященный классической задаче предсказания выживаемости пассажиров на печально известном Титанике. Здесь я применяю различные алгоритмы машинного обучения для анализа реальных данных, развивая свои навыки предобработки, анализа признаков и моделирования.
+This project is dedicated to the classic task of predicting the survival of passengers on the infamous Titanic. Here, I apply various machine learning algorithms to analyze real data, developing my skills in preprocessing, feature analysis, and modeling.
 
-## 📌 Цель проекта
-Создать модель, которая предскажет, какие пассажиры выжили после крушения Титаника. Для этого используется набор данных с информацией о пассажирах: возраст, пол, класс билета, количество родственников на борту и другие характеристики, потенциально влияющие на шансы выживания.
+## 📌 Project Goal
+To create a model that predicts which passengers survived the Titanic disaster. This uses a dataset containing information about the passengers: age, gender, ticket class, number of relatives on board, and other characteristics that potentially influence survival chances.
 
-## 📂 Содержание репозитория
-- **Анализ данных**: Исследование и визуализация признаков, выявление ключевых факторов, связанных с выживаемостью.
-- **Предобработка данных**: Очистка данных, заполнение пропусков, кодирование категорий и нормализация для подготовки к моделированию.
-- **Моделирование**: Применение различных алгоритмов машинного обучения — логистическая регрессия, случайный лес, SVM, градиентный бустинг — и их сравнение.
-- **Оценка модели**: Подбор метрик точности и сравнение результатов моделей для выбора наилучшего подхода.
+## 📂 Repository Contents
+- **Data Analysis**: Exploration and visualization of features, identifying key factors associated with survival.
+- **Data Preprocessing**: Data cleaning, handling missing values, encoding categories, and normalization to prepare for modeling.
+- **Modeling**: Application of various machine learning algorithms — logistic regression, random forest, SVM, gradient boosting — and comparison of their performance.
+- **Model Evaluation**: Selecting accuracy metrics and comparing model results to choose the best approach.
 
-## 🛠 Используемые технологии
-- **Язык**: Python
-- **Библиотеки**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+## 🛠 Technologies Used
+- **Language**: Python
+- **Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 
-## 🎯 Результаты
-Моя цель — достичь высокой точности предсказаний, выявить основные признаки, влияющие на выживаемость, и оптимизировать модель для лучших результатов.
+## 🎯 Results
+My goal is to achieve high prediction accuracy, identify the main features influencing survival, and optimize the model for better outcomes.
 
-## 📊 Данные
-Набор данных доступен на Kaggle: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic).
+## 📊 Data
+The dataset is available on Kaggle: [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic).
